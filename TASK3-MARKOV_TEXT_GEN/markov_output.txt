@@ -1,0 +1,15 @@
+TASK 03 - TEXT GENERATION WITH MARKOV CHAINS
+==================================================
+
+Generated Sentences:
+
+1. The future belongs to those who believe in the dark sky, reminding us of the vast universe.
+2. Hard work and dedication always lead to success in the dark horizon every single second without stopping.
+3. The future belongs to those who believe in the dark horizon every single second without stopping.
+4. The rivers flow gently through the leaves, carrying stories from distant lands.
+5. The city lights shine brightly across the plains and forests.
+6. The wind whispers through the valleys, nourishing the land.
+7. Stars twinkle in the dark horizon every single night.
+8. Hard work and dedication always lead to success in the dark horizon every single second without stopping.
+9. Kindness and compassion make the world around us.
+10. Animals roam freely across the entire modern world.
