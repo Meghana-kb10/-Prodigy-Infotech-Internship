@@ -88,6 +88,7 @@ The model is trained on a domain-specific dataset and then used to generate huma
 
 ◆ KEY CONCEPTS
 
+
 ▣ GPT-2 MODEL
 
 ◻ An autoregressive model that predicts the next word based on previous context
